@@ -9,3 +9,4 @@
 db_credentials.py
 2019_sales_by_month.xlsx
 hotel_brand_and_flag_xlsx
+*.ipynb
